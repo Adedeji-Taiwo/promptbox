@@ -12,7 +12,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 ## Link
-- Live link: https://acecoinpayment.netlify.app/
+- Live link: https://promptbox-eosin.vercel.app/
 
 
 ## Third Party Libraries used.
